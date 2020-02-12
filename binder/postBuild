@@ -25,5 +25,5 @@ ${CONDA_DIR}/neo4j-community-3.5.14/bin/neo4j-admin set-initial-password neo4jbi
 
 # Add APOC library
 # The APOC library consists of many (about 450) procedures and functions to help with many different tasks in areas like data integration, graph algorithms or data conversion.
-wget https://github.com/neo4j-contrib/neo4j-apoc-procedures/releases/download/3.5.0.7/apoc-3.5.0.7-all.jar
-mv apoc-3.5.0.7-all.jar ${CONDA_DIR}/neo4j-community-3.5.14/plugins
+# wget https://github.com/neo4j-contrib/neo4j-apoc-procedures/releases/download/3.5.0.7/apoc-3.5.0.7-all.jar
+# mv apoc-3.5.0.7-all.jar ${CONDA_DIR}/neo4j-community-3.5.14/plugins
