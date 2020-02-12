@@ -12,7 +12,11 @@ rm neo4j-community-3.5.8-unix.tar.gz
 # Not sure if the neo4j web UI is working via the proxy
 # This should allow the db to listen if it does...
 # Comment it out if you'd rather be a bit more secure
-#echo "dbms.connectors.default_listen_address=0.0.0.0" >> ${CONDA_DIR}/neo4j-community-3.5.8/conf/neo4j.conf
+echo "dbms.connectors.default_listen_address=0.0.0.0" >> ${CONDA_DIR}/neo4j-community-3.5.8/conf/neo4j.conf
+
+# Enable LOAD CSV from any location
+mv ${CONDA_DIR}/neo4j-community-3.5.8/conf/neo4j.conf ${CONDA_DIR}/neo4j-community-3.5.8/conf/neo4j.conf-default
+sed 's/dbms.directories.import=import/#dbms.directories.import=import/g' ${CONDA_DIR}/neo4j-community-3.5.8/conf/neo4j.conf-default > ${CONDA_DIR}/neo4j-community-3.5.8/conf/neo4j.conf 
 
 # neo4j has aa default password: neo4j
 # However, if you log in with that, the session will soon time out
