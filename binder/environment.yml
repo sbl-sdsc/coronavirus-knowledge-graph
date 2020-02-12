@@ -1,0 +1,12 @@
+name: coronavirus-knowledge-graph 
+
+channels:
+  - anaconda
+  - conda-forge
+
+dependencies:
+  - python>=3.7
+  - pandas==1.0.1
+  - pip
+  - pip:
+    - py2neo==4.3.0
