@@ -1,24 +1,29 @@
 #!/bin/bash
 # neo4j setup from https://github.com/ouseful-template-repos/binder-neo4j
 
-if [ ! -f neo4j-community-3.5.8-unix.tar.gz ]; then
+if [ ! -f neo4j-community-3.5.14-unix.tar.gz ]; then
   wget http://dist.neo4j.org/neo4j-community-3.5.8-unix.tar.gz
 fi
 
-tar -xvf neo4j-community-3.5.8-unix.tar.gz
-mv neo4j-community-3.5.8 ${CONDA_DIR}/
-rm neo4j-community-3.5.8-unix.tar.gz
+tar -xvf neo4j-community-3.5.14-unix.tar.gz
+mv neo4j-community-3.5.14 ${CONDA_DIR}/
+rm neo4j-community-3.5.14-unix.tar.gz
 
 # Not sure if the neo4j web UI is working via the proxy
 # This should allow the db to listen if it does...
 # Comment it out if you'd rather be a bit more secure
-echo "dbms.connectors.default_listen_address=0.0.0.0" >> ${CONDA_DIR}/neo4j-community-3.5.8/conf/neo4j.conf
+echo "dbms.connectors.default_listen_address=0.0.0.0" >> ${CONDA_DIR}/neo4j-community-3.5.14/conf/neo4j.conf
 
 # Enable LOAD CSV from any location
-mv ${CONDA_DIR}/neo4j-community-3.5.8/conf/neo4j.conf ${CONDA_DIR}/neo4j-community-3.5.8/conf/neo4j.conf-default
-sed 's/dbms.directories.import=import/#dbms.directories.import=import/g' ${CONDA_DIR}/neo4j-community-3.5.8/conf/neo4j.conf-default > ${CONDA_DIR}/neo4j-community-3.5.8/conf/neo4j.conf 
+mv ${CONDA_DIR}/neo4j-community-3.5.14/conf/neo4j.conf ${CONDA_DIR}/neo4j-community-3.5.14/conf/neo4j.conf-default
+sed 's/dbms.directories.import=import/#dbms.directories.import=import/g' ${CONDA_DIR}/neo4j-community-3.5.14/conf/neo4j.conf-default > ${CONDA_DIR}/neo4j-community-3.5.14/conf/neo4j.conf 
 
 # neo4j has aa default password: neo4j
 # However, if you log in with that, the session will soon time out
 # and you will be required to update the original default password 
-${CONDA_DIR}/neo4j-community-3.5.8/bin/neo4j-admin set-initial-password neo4jbinder
+${CONDA_DIR}/neo4j-community-3.5.14/bin/neo4j-admin set-initial-password neo4jbinder
+
+# Add APOC library
+# The APOC library consists of many (about 450) procedures and functions to help with many different tasks in areas like data integration, graph algorithms or data conversion.
+wget https://github.com/neo4j-contrib/neo4j-apoc-procedures/releases/download/3.5.0.7/apoc-3.5.0.7-all.jar
+mv apoc-3.5.0.7-all.jar ${CONDA_DIR}/neo4j-community-3.5.14/plugins
