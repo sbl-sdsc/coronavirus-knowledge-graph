@@ -13,7 +13,7 @@ The initial focus of this repo is on the Novel Coronavirus COVID-19 (2019-nCoV).
 
 1. Launch this repo on [MyBinder.org](https://mybinder.org/). Binder lets you run Jupyter Notebooks in your web browser without software installation.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sbl-sdsc/coronavirus-knowledge-graph/master?urlpath=lab?filepath=tree)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sbl-sdsc/coronavirus-knowledge-graph/master?urlpath=lab)
 
 2. Once Jupyter Lab launches (this may take a couple of minutes), navigate to the notebooks directory.
 
