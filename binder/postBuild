@@ -2,7 +2,7 @@
 # neo4j setup from https://github.com/ouseful-template-repos/binder-neo4j
 
 if [ ! -f neo4j-community-3.5.14-unix.tar.gz ]; then
-  wget http://dist.neo4j.org/neo4j-community-3.5.8-unix.tar.gz
+  wget http://dist.neo4j.org/neo4j-community-3.5.14-unix.tar.gz
 fi
 
 tar -xvf neo4j-community-3.5.14-unix.tar.gz
