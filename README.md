@@ -6,6 +6,7 @@ The goal of this Knowledge Graph project is to link heterogeneous data from publ
 Currently, this project integrates data from:
 * Daily reported COVID-19 cases from [Coronavirus COVID-19 Global Cases by Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19)
 * Real-time tracking of COVID-19 evolution from [Nextstrain](https://github.com/nextstrain/ncov)
+* Genome, gene, and protein data from [NCBI](https://www.ncbi.nlm.nih.gov/nuccore/NC_045512)
 
 The initial focus of this repo is on the Novel Coronavirus COVID-19 (2019-nCoV). In the future we will include data for SARS and MERS.
 
@@ -23,7 +24,9 @@ The initial focus of this repo is on the Novel Coronavirus COVID-19 (2019-nCoV).
 
 * 2-CreateKnowledgeGraph (creates a Neo4j Knowledge Graph)
 
-* 3-ExampleQueries (runs [Cypher](https://neo4j.com/developer/cypher-query-language/) queries on the Knowledge Graph)
+* 3-AddGeneProteinInfo (adds genome, gene, and protein information)
+
+* 4-ExampleQueries (runs [Cypher](https://neo4j.com/developer/cypher-query-language/) queries on the Knowledge Graph)
 
 
 ## How can you help?
