@@ -13,3 +13,4 @@ dependencies:
   - pip
   - pip:
     - py2neo==4.3.0
+    - neo4jupyter==0.1.2
