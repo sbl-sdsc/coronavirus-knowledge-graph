@@ -28,6 +28,18 @@ The initial focus of this repo is on the Novel Coronavirus COVID-19 (2019-nCoV).
 
 * 4-ExampleQueries (runs [Cypher](https://neo4j.com/developer/cypher-query-language/) queries on the Knowledge Graph)
 
+## Coronavirus KG Views displayed in Neo4j Browser
+![](docs/locations.png)
+
+Fig. 1: Outbreaks by Country, State/Province, and City
+
+![](docs/genome.png)
+
+Fig. 2: Pathogen, Genome, Genes, and Proteins
+
+![](docs/strains.png)
+
+Fig. 3: Strains found in Hubei province
 
 ## How can you help?
 
