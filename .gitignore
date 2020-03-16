@@ -99,3 +99,6 @@ spark-warehouse
 
 # test file
 ./test.py
+
+# Neo4j
+import.report

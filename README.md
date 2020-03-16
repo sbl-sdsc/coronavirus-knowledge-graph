@@ -1,4 +1,9 @@
 # Coronavirus-Knowledge-Graph
+
+**WORK IN PROGRESS**
+
+**Documentation below is obsolete**
+
 Prototype to create a [Neo4j](https://neo4j.com/) Knowledge Graph for Coronavirus outbreaks. 
 
 The goal of this Knowledge Graph project is to link heterogeneous data from publically available resources relevant to the COVID-19 outbreak. By linking disparate datasets, new insights may be gained.
