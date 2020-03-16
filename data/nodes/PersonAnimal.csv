@@ -23,6 +23,7 @@ Beijing/233/2020,,,Beijing,9606,2020-03-06,Person
 Beijing/235/2020,,,Beijing,9606,2020-03-06,Person
 Beijing/IVDC-BJ-005/2020,34,Male,Beijing,9606,2020-02-09,Person
 Belgium/GHB-03021/2020,54,Male,Hubei,9606,2020-02-07,Person
+Brazil-RJ/314/2020,52,Female,Rio de Janeiro,9606,2020-03-11,Person
 Brazil/SPBR-01/2020,61,Male,Lombardy,9606,2020-02-28,Person
 Brazil/SPBR-02/2020,32,Male,Lombardy,9606,2020-03-02,Person
 Brazil/SPBR-03/2020,46,Male,Sao Paulo,9606,2020-03-10,Person
@@ -65,6 +66,7 @@ China/WHU02/2020,,,Hubei,9606,2020-01-30,Person
 Chongqing/IVDC-CQ-001/2020,44,Female,Chongqing,9606,2020-02-09,Person
 Chongqing/YC01/2020,46,Male,Chongqing,9606,2020-02-09,Person
 Chongqing/ZX01/2020,50,Female,Chongqing,9606,2020-02-09,Person
+Congo/KN-13/2020,52,Male,Kinshasa,9606,2020-03-15,Person
 CzechRepublic/951/2020,44,Male,Italy,9606,2020-03-12,Person
 England/01/2020,50,Female,Hubei,9606,2020-02-03,Person
 England/02/2020,23,Male,Hubei,9606,2020-02-03,Person
@@ -91,7 +93,14 @@ England/201040141/2020,51,Female,England,9606,2020-03-13,Person
 England/Sheff01/2020,27,Female,England,9606,2020-03-12,Person
 England/Sheff02/2020,26,Male,England,9606,2020-03-12,Person
 Finland/1/2020,32,Female,Hubei,9606,2020-02-03,Person
+Finland/FIN-114/2020,23,Female,Italy,9606,2020-03-15,Person
 Finland/FIN-25/2020,24,Female,Lombardy,9606,2020-03-01,Person
+Finland/FIN-266/2020,29,Female,Iran,9606,2020-03-15,Person
+Finland/FIN-274/2020,27,Male,Finland,9606,2020-03-15,Person
+Finland/FIN-313/2020,49,Female,Finland,9606,2020-03-15,Person
+Finland/FIN-318/2020,35,Male,Finland,9606,2020-03-15,Person
+Finland/FIN-455/2020,57,Male,Finland,9606,2020-03-15,Person
+Finland/FIN-508/2020,43,Female,Finland,9606,2020-03-15,Person
 Finland/FIN01032020/2020,76,Male,Helsinki,9606,2020-03-08,Person
 Finland/FIN03032020A/2020,40,Male,Helsinki,9606,2020-03-08,Person
 Finland/FIN03032020B/2020,55,Female,Helsinki,9606,2020-03-08,Person
@@ -209,11 +218,11 @@ Henan/IVDC-HeN-002/2020,30,Female,Henan,9606,2020-02-09,Person
 HongKong/VB20024950/2020,75,Male,Hong Kong,9606,2020-02-24,Person
 HongKong/VB20026565/2020,80,Male,Hong Kong,9606,2020-02-24,Person
 HongKong/VM20001061/2020,39,Male,Hong Kong,9606,2020-02-24,Person
-HongKong/case42_VM20002493/2020,62,Female,,9606,2020-03-13,Person
-HongKong/case48_VM20002507/2020,37,Female,,9606,2020-03-13,Person
-HongKong/case49_VM20002508/2020,37,Male,,9606,2020-03-13,Person
-HongKong/case52_VM20002582/2020,67,Female,,9606,2020-03-13,Person
-HongKong/case78_VM20002849/2020,59,Female,,9606,2020-03-13,Person
+HongKong/case42_VM20002493/2020,62,Female,Hong Kong,9606,2020-03-13,Person
+HongKong/case48_VM20002507/2020,37,Female,Hong Kong,9606,2020-03-13,Person
+HongKong/case49_VM20002508/2020,37,Male,Hong Kong,9606,2020-03-13,Person
+HongKong/case52_VM20002582/2020,67,Female,Hong Kong,9606,2020-03-13,Person
+HongKong/case78_VM20002849/2020,59,Female,Hong Kong,9606,2020-03-13,Person
 HongKong/case85_VM20002868/2020,60,Female,Hong Kong,9606,2020-03-13,Person
 HongKong/case90_VM20002907/2020,29,Female,Hong Kong,9606,2020-03-13,Person
 India/1-27/2020,20,Female,Kerala,9606,2020-03-06,Person
@@ -444,6 +453,7 @@ USA/CA-CDPH-UC6/2020,,,Grand Princess,9606,2020-03-10,Person
 USA/CA-CDPH-UC7/2020,,,Grand Princess,9606,2020-03-10,Person
 USA/CA-CDPH-UC8/2020,,,Grand Princess,9606,2020-03-10,Person
 USA/CA-CDPH-UC9/2020,,,Grand Princess,9606,2020-03-10,Person
+USA/CA-PC101P/2020,,,California,9606,2020-03-16,Person
 USA/CA1/2020,38,Male,Hubei,9606,2020-01-27,Person
 USA/CA2/2020,54,Male,Hubei,9606,2020-01-27,Person
 USA/CA3/2020,57,Male,California,9606,2020-02-07,Person
@@ -484,6 +494,7 @@ USA/MA1/2020,21,Male,Hubei,9606,2020-02-11,Person
 USA/MN1-MDH1/2020,,,Grand Princess,9606,2020-03-13,Person
 USA/MN2-MDH2/2020,,,Minnesota,9606,2020-03-13,Person
 USA/MN3-MDH3/2020,,,Grand Princess,9606,2020-03-13,Person
+USA/NY-NYUMC1/2020,43,Male,New York,9606,2020-03-15,Person
 USA/NY1-PV08001/2020,39,Female,Iran,9606,2020-03-12,Person
 USA/TX1/2020,50,Female,Hubei,9606,2020-02-22,Person
 USA/UC-CDPH-UC11/2020,,,Grand Princess,9606,2020-03-10,Person
@@ -504,10 +515,10 @@ USA/WA-UW26/2020,,,Washington,9606,2020-03-14,Person
 USA/WA-UW27/2020,,,Washington,9606,2020-03-14,Person
 USA/WA-UW28/2020,,,Washington,9606,2020-03-14,Person
 USA/WA-UW29/2020,,,Washington,9606,2020-03-15,Person
-USA/WA-UW30/2020,,,,9606,2020-03-15,Person
-USA/WA-UW31/2020,,,,9606,2020-03-15,Person
-USA/WA-UW32/2020,,,,9606,2020-03-15,Person
-USA/WA-UW33/2020,,,,9606,2020-03-15,Person
+USA/WA-UW30/2020,,,Washington,9606,2020-03-15,Person
+USA/WA-UW31/2020,,,Washington,9606,2020-03-15,Person
+USA/WA-UW32/2020,,,Washington,9606,2020-03-15,Person
+USA/WA-UW33/2020,,,Washington,9606,2020-03-15,Person
 USA/WA-UW34/2020,,,Washington,9606,2020-03-15,Person
 USA/WA-UW35/2020,,,Washington,9606,2020-03-15,Person
 USA/WA1-A12/2020,35,Male,Washington,9606,2020-02-04,Person

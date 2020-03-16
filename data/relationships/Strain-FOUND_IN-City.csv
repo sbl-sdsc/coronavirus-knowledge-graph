@@ -18,6 +18,7 @@ Australia/QLD04/2020,Gold Coast,FOUND_IN
 Australia/QLD09/2020,Gold Coast,FOUND_IN
 Australia/VIC01/2020,Clayton,FOUND_IN
 Belgium/GHB-03021/2020,Leuven,FOUND_IN
+Brazil-RJ/314/2020,Rio de Janeiro,FOUND_IN
 Brazil/SPBR-01/2020,Sao Paulo,FOUND_IN
 Brazil/SPBR-02/2020,Sao Paulo,FOUND_IN
 Brazil/SPBR-03/2020,Sao Paulo,FOUND_IN
@@ -77,6 +78,11 @@ Hangzhou/HZ-1/2020,Hangzhou,FOUND_IN
 Hangzhou/HZCDC0001/2020,Hangzhou,FOUND_IN
 Hefei/2/2020,Hefei,FOUND_IN
 Henan/IVDC-HeN-002/2020,Zhengzhou,FOUND_IN
+HongKong/case42_VM20002493/2020,Hong Kong,FOUND_IN
+HongKong/case48_VM20002507/2020,Hong Kong,FOUND_IN
+HongKong/case49_VM20002508/2020,Hong Kong,FOUND_IN
+HongKong/case52_VM20002582/2020,Hong Kong,FOUND_IN
+HongKong/case78_VM20002849/2020,Hong Kong,FOUND_IN
 Italy/INMI1-cs/2020,Rome,FOUND_IN
 Italy/INMI1-isl/2020,Rome,FOUND_IN
 Italy/SPL1/2020,Rome,FOUND_IN
