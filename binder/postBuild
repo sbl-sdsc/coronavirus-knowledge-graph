@@ -13,8 +13,8 @@ rm neo4j-community-3.5.8-unix.tar.gz
 # This should allow the db to listen if it does...
 # Comment it out if you'd rather be a bit more secure
 echo "dbms.connectors.default_listen_address=0.0.0.0" >> ${CONDA_DIR}/neo4j-community-3.5.8/conf/neo4j.conf
-echo "dbms.memory.heap.initial_size=512m" >> ${CONDA_DIR}/neo4j-community-3.5.8/conf/neo4j.conf" >> ${CONDA_DIR}/neo4j-community-3.5.8/conf/neo4j.conf
-echo "dbms.memory.heap.max_size=512m" >> ${CONDA_DIR}/neo4j-community-3.5.8/conf/neo4j.conf" >> ${CONDA_DIR}/neo4j-community-3.5.8/conf/neo4j.conf
+echo "dbms.memory.heap.initial_size=450m" >> ${CONDA_DIR}/neo4j-community-3.5.8/conf/neo4j.conf" >> ${CONDA_DIR}/neo4j-community-3.5.8/conf/neo4j.conf
+echo "dbms.memory.heap.max_size=450m" >> ${CONDA_DIR}/neo4j-community-3.5.8/conf/neo4j.conf" >> ${CONDA_DIR}/neo4j-community-3.5.8/conf/neo4j.conf
 
 # Enable LOAD CSV from any location
 mv ${CONDA_DIR}/neo4j-community-3.5.8/conf/neo4j.conf ${CONDA_DIR}/neo4j-community-3.5.8/conf/neo4j.conf-default
