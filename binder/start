@@ -1,5 +1,6 @@
 #!/bin/bash
 set -eux
+export NEO4J_HOME=${CONDA_DIR}/neo4j-community-3.5.8
 
 ${CONDA_DIR}/neo4j-community-3.5.8/bin/neo4j start
 
