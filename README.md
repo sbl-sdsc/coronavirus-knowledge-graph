@@ -2,6 +2,8 @@
 
 **WORK IN PROGRESS**
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pwrose/coronavirus-knowledge-graph/master?urlpath=lab)
+
 **Documentation below is obsolete**
 
 Prototype to create a [Neo4j](https://neo4j.com/) Knowledge Graph for Coronavirus outbreaks. 
