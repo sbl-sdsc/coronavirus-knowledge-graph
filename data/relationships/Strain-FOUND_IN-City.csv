@@ -19,6 +19,8 @@ Australia/QLD09/2020,Gold Coast,FOUND_IN
 Australia/VIC01/2020,Clayton,FOUND_IN
 Belgium/GHB-03021/2020,Leuven,FOUND_IN
 Brazil-RJ/314/2020,Rio de Janeiro,FOUND_IN
+Brazil/BA-312/2020,Feira de Santana,FOUND_IN
+Brazil/ES-225/2020,Vila Velha,FOUND_IN
 Brazil/SPBR-01/2020,Sao Paulo,FOUND_IN
 Brazil/SPBR-02/2020,Sao Paulo,FOUND_IN
 Brazil/SPBR-03/2020,Sao Paulo,FOUND_IN
@@ -27,6 +29,9 @@ Brazil/SPBR-05/2020,Sao Paulo,FOUND_IN
 Brazil/SPBR-06/2020,Sao Paulo,FOUND_IN
 China/IQTC01/2020,Guangzhou,FOUND_IN
 China/IQTC02/2020,Guangzhou,FOUND_IN
+China/Spain-cluster-case1/2020,Zhongshan,FOUND_IN
+China/Spain-cluster-case2/2020,Zhongshan,FOUND_IN
+China/Spain-cluster-case3/2020,Zhongshan,FOUND_IN
 China/WH-09/2020,Wuhan,FOUND_IN
 China/WHU01/2020,Wuhan,FOUND_IN
 China/WHU02/2020,Wuhan,FOUND_IN
@@ -38,9 +43,12 @@ Finland/1/2020,Rovaniemi,FOUND_IN
 Foshan/20SF207/2020,Foshan,FOUND_IN
 Foshan/20SF210/2020,Foshan,FOUND_IN
 Foshan/20SF211/2020,Foshan,FOUND_IN
+France/BFC2094/2020,Montreux-Chateau,FOUND_IN
+France/BFC2147/2020,Thise,FOUND_IN
 France/GE1583/2020,Strasbourg,FOUND_IN
 France/GE1973/2020,Reims,FOUND_IN
 France/GE1977/2020,Reims,FOUND_IN
+France/HF1684/2020,Crépy en Valois,FOUND_IN
 France/HF1795/2020,Compiègne,FOUND_IN
 France/HF1805/2020,Compiègne,FOUND_IN
 France/HF1870/2020,Compiègne,FOUND_IN
@@ -50,6 +58,9 @@ France/HF1988/2020,Compiègne,FOUND_IN
 France/HF1989/2020,Compiègne,FOUND_IN
 France/HF1993/2020,Compiègne,FOUND_IN
 France/HF1995/2020,Compiègne,FOUND_IN
+France/HF2039/2020,Crépy-en -Valois,FOUND_IN
+France/HF2151/2020,Compiègne,FOUND_IN
+France/HF2174/2020,Compiègne,FOUND_IN
 France/IDF0372-isl/2020,Paris,FOUND_IN
 France/IDF0372/2020,Paris,FOUND_IN
 France/IDF0373/2020,Paris,FOUND_IN
@@ -61,6 +72,7 @@ France/IDF0571/2020,Paris,FOUND_IN
 France/IDF0626/2020,Paris,FOUND_IN
 France/IDF1980/2020,Pontoise,FOUND_IN
 France/N1620/2020,Rouen,FOUND_IN
+France/PL1643/2020,Nantes,FOUND_IN
 France/RA739/2020,Contamines,FOUND_IN
 Germany/BavPat1/2020,Starnberg,FOUND_IN
 Germany/BavPat2/2020,Munich,FOUND_IN
@@ -74,6 +86,14 @@ Guangdong/20SF028/2020,Zhuhai,FOUND_IN
 Guangdong/20SF040/2020,Zhuhai,FOUND_IN
 Guangdong/20SF174/2020,Zhuhai,FOUND_IN
 Guangzhou/20SF206/2020,Guangzhou,FOUND_IN
+Guangzhou/GZMU0014/2020,Guangzhou,FOUND_IN
+Guangzhou/GZMU0016/2020,Guangzhou,FOUND_IN
+Guangzhou/GZMU0030/2020,Guangzhou,FOUND_IN
+Guangzhou/GZMU0031/2020,Guangzhou,FOUND_IN
+Guangzhou/GZMU0042/2020,Guangzhou,FOUND_IN
+Guangzhou/GZMU0044/2020,Guangzhou,FOUND_IN
+Guangzhou/GZMU0047/2020,Guangzhou,FOUND_IN
+Guangzhou/GZMU0048/2020,Guangzhou,FOUND_IN
 Hangzhou/HZ-1/2020,Hangzhou,FOUND_IN
 Hangzhou/HZCDC0001/2020,Hangzhou,FOUND_IN
 Hefei/2/2020,Hefei,FOUND_IN
@@ -179,6 +199,11 @@ USA/UC-CDPH-UC11/2020,San Francisco,FOUND_IN
 USA/WA-UW29/2020,Kirkland,FOUND_IN
 USA/WA-UW34/2020,Kirkland,FOUND_IN
 USA/WA-UW35/2020,Seattle,FOUND_IN
+USA/WA-UW56/2020,Seattle,FOUND_IN
+USA/WA-UW69/2020,Seattle,FOUND_IN
+USA/WA-UW74/2020,Seattle,FOUND_IN
+USA/WA-UW75/2020,Seattle,FOUND_IN
+Wales/PHW10/2020,Cardiff,FOUND_IN
 Wuhan-Hu-1/2019,Wuhan,FOUND_IN
 Wuhan/HBCDC-HB-01/2019,Wuhan,FOUND_IN
 Wuhan/HBCDC-HB-02/2019,Wuhan,FOUND_IN

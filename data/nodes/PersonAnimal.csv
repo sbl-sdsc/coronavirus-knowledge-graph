@@ -22,8 +22,17 @@ Beijing/231/2020,,,Beijing,9606,2020-03-06,Person
 Beijing/233/2020,,,Beijing,9606,2020-03-06,Person
 Beijing/235/2020,,,Beijing,9606,2020-03-06,Person
 Beijing/IVDC-BJ-005/2020,34,Male,Beijing,9606,2020-02-09,Person
+Belgium/BA-02291/2020,48,Female,Leuven,9606,2020-03-16,Person
+Belgium/BC-03016/2020,46,Male,Sint-Niklaas,9606,2020-03-16,Person
+Belgium/BM-03012/2020,47,Male,Italy,9606,2020-03-16,Person
 Belgium/GHB-03021/2020,54,Male,Hubei,9606,2020-02-07,Person
+Belgium/QKJ-03015/2020,49,Male,Brussels,9606,2020-03-16,Person
+Belgium/SH-03014/2020,56,Male,Huldenberg,9606,2020-03-16,Person
+Belgium/VAG-03013/2020,14,Female,Huldenberg,9606,2020-03-16,Person
+Belgium/VLM-03011/2020,48,Female,Huldenberg,9606,2020-03-16,Person
 Brazil-RJ/314/2020,52,Female,Rio de Janeiro,9606,2020-03-11,Person
+Brazil/BA-312/2020,34,Female,Bahia,9606,2020-03-16,Person
+Brazil/ES-225/2020,37,Female,Espirito Santo,9606,2020-03-16,Person
 Brazil/SPBR-01/2020,61,Male,Lombardy,9606,2020-02-28,Person
 Brazil/SPBR-02/2020,32,Male,Lombardy,9606,2020-03-02,Person
 Brazil/SPBR-03/2020,46,Male,Sao Paulo,9606,2020-03-10,Person
@@ -31,15 +40,35 @@ Brazil/SPBR-04/2020,13,Female,Italy,9606,2020-03-10,Person
 Brazil/SPBR-05/2020,37,Female,Sao Paulo,9606,2020-03-10,Person
 Brazil/SPBR-06/2020,69,Female,Sao Paulo,9606,2020-03-10,Person
 Cambodia/0012/2020,60,Male,Hubei,9606,2020-02-21,Person
+Canada/BC_02421/2020,60,Male,Iran,9606,2020-03-18,Person
+Canada/BC_13297/2020,54,Male,Iran,9606,2020-03-18,Person
+Canada/BC_17397/2020,57,,Iran,9606,2020-03-18,Person
+Canada/BC_25211/2020,33,Female,Iran,9606,2020-03-18,Person
+Canada/BC_35720/2020,80,Female,Hong Kong,9606,2020-03-18,Person
 Canada/BC_37_0-2/2020,35,Female,Iran,9606,2020-02-29,Person
+Canada/BC_40860/2020,58,Female,Iran,9606,2020-03-18,Person
+Canada/BC_41851/2020,55,Female,British Columbia,9606,2020-03-18,Person
+Canada/BC_64686/2020,68,Male,Grand Princess,9606,2020-03-18,Person
+Canada/BC_65034/2020,58,Female,Iran,9606,2020-03-18,Person
+Canada/BC_66353/2020,68,Male,Iran,9606,2020-03-18,Person
+Canada/BC_69243/2020,43,Male,Iran,9606,2020-03-18,Person
+Canada/BC_78548/2020,36,Male,British Columbia,9606,2020-03-18,Person
+Canada/BC_83109/2020,17,Male,British Columbia,9606,2020-03-18,Person
+Canada/BC_83163/2020,55,Male,British Columbia,9606,2020-03-18,Person
 Canada/ON-PHL2445/2020,56,Male,Hubei,9606,2020-03-02,Person
 Canada/ON-VIDO-01/2020,,Male,Hubei,9606,2020-03-02,Person
 Chile/Santiago-1/2020,56,Female,Santiago,9606,2020-03-13,Person
 Chile/Santiago-2/2020,40,Female,Santiago,9606,2020-03-13,Person
+Chile/Santiago_op2d1/2020,58,Male,Santiago,9606,2020-03-19,Person
+Chile/Santiago_op3d1/2020,14,Male,Santiago,9606,2020-03-19,Person
+Chile/Santiago_op4d1/2020,17,Male,Santiago,9606,2020-03-19,Person
 Chile/Talca-1/2020,33,Male,Talca,9606,2020-03-13,Person
 Chile/Talca-2/2020,33,Female,Talca,9606,2020-03-13,Person
 China/IQTC01/2020,,,Guangdong,9606,2020-02-29,Person
 China/IQTC02/2020,,,Guangdong,9606,2020-02-29,Person
+China/Spain-cluster-case1/2020,,,Guangdong,9606,2020-03-16,Person
+China/Spain-cluster-case2/2020,,,Guangdong,9606,2020-03-16,Person
+China/Spain-cluster-case3/2020,,,Guangdong,9606,2020-03-16,Person
 China/WF0001/2020,,,Shandong,9606,2020-03-09,Person
 China/WF0002/2020,,,Shandong,9606,2020-03-09,Person
 China/WF0003/2020,,,Shandong,9606,2020-03-09,Person
@@ -68,6 +97,8 @@ Chongqing/YC01/2020,46,Male,Chongqing,9606,2020-02-09,Person
 Chongqing/ZX01/2020,50,Female,Chongqing,9606,2020-02-09,Person
 Congo/KN-13/2020,52,Male,Kinshasa,9606,2020-03-15,Person
 CzechRepublic/951/2020,44,Male,Italy,9606,2020-03-12,Person
+Denmark/SSI-101/2020,31,Male,,9606,2020-03-18,Person
+Denmark/SSI-104/2020,,Male,,9606,2020-03-18,Person
 England/01/2020,50,Female,Hubei,9606,2020-02-03,Person
 England/02/2020,23,Male,Hubei,9606,2020-02-03,Person
 England/09c/2020,27,Female,Hubei,9606,2020-02-24,Person
@@ -82,14 +113,36 @@ England/200960515/2020,43,Female,England,9606,2020-03-10,Person
 England/200981386/2020,45,Female,England,9606,2020-03-10,Person
 England/200990002/2020,48,Female,England,9606,2020-03-13,Person
 England/200990006/2020,52,Female,England,9606,2020-03-10,Person
+England/20099038206/2020,30,Female,England,9606,2020-03-16,Person
 England/200990660/2020,56,Male,England,9606,2020-03-13,Person
 England/200990723/2020,54,Female,England,9606,2020-03-10,Person
 England/200990724/2020,75,Female,England,9606,2020-03-10,Person
 England/200990725/2020,81,Male,England,9606,2020-03-10,Person
+England/20099079106/2020,33,Female,England,9606,2020-03-16,Person
+England/20099107406/2020,21,Male,England,9606,2020-03-16,Person
 England/200991076/2020,48,Male,England,9606,2020-03-13,Person
 England/201000003/2020,24,Female,England,9606,2020-03-10,Person
+England/20100001406/2020,46,Male,England,9606,2020-03-16,Person
+England/20100004706/2020,15,Female,England,9606,2020-03-16,Person
+England/20100004806/2020,52,Female,England,9606,2020-03-16,Person
+England/20100005406/2020,38,Male,England,9606,2020-03-16,Person
+England/20100022706/2020,13,Male,England,9606,2020-03-16,Person
+England/20100023206/2020,40,Male,England,9606,2020-03-16,Person
+England/20100024006/2020,73,Male,England,9606,2020-03-16,Person
+England/20100077906/2020,35,Male,England,9606,2020-03-16,Person
+England/20100121006/2020,34,Male,England,9606,2020-03-16,Person
+England/20100121007/2020,34,Male,England,9606,2020-03-16,Person
+England/20100122106/2020,55,Male,England,9606,2020-03-16,Person
+England/20100122107/2020,55,Male,England,9606,2020-03-16,Person
+England/20102000106/2020,61,Female,England,9606,2020-03-16,Person
+England/20102000206/2020,49,Female,England,9606,2020-03-16,Person
+England/20102000306/2020,28,Male,England,9606,2020-03-16,Person
+England/20102000506/2020,22,Male,England,9606,2020-03-16,Person
+England/20102000906/2020,33,Female,England,9606,2020-03-16,Person
+England/20102068506/2020,44,Female,England,9606,2020-03-16,Person
 England/201040081/2020,41,Male,England,9606,2020-03-13,Person
 England/201040141/2020,51,Female,England,9606,2020-03-13,Person
+England/20110003506/2020,72,Male,England,9606,2020-03-16,Person
 England/Sheff01/2020,27,Female,England,9606,2020-03-12,Person
 England/Sheff02/2020,26,Male,England,9606,2020-03-12,Person
 Finland/1/2020,32,Female,Hubei,9606,2020-02-03,Person
@@ -108,9 +161,12 @@ Finland/FIN03032020C/2020,59,Male,Italy,9606,2020-03-08,Person
 Foshan/20SF207/2020,57,Male,Guangdong,9606,2020-01-29,Person
 Foshan/20SF210/2020,57,Female,Guangdong,9606,2020-01-29,Person
 Foshan/20SF211/2020,57,Male,Guangdong,9606,2020-01-29,Person
-France/GE1583/2020,36,Male,Grand Est,9606,2020-03-14,Person
+France/BFC2094/2020,79,Female,Bourgogne-France-Comté,9606,2020-03-18,Person
+France/BFC2147/2020,86,Male,Bourgogne-France-Comté,9606,2020-03-18,Person
+France/GE1583/2020,36,Male,Grand Est,9606,2020-03-15,Person
 France/GE1973/2020,88,Male,Grand Est,9606,2020-03-15,Person
 France/GE1977/2020,70,Male,Grand Est,9606,2020-03-15,Person
+France/HF1684/2020,88,Female,Hauts de France,9606,2020-03-15,Person
 France/HF1795/2020,78,Male,Hauts de France,9606,2020-03-15,Person
 France/HF1805/2020,82,Male,Hauts de France,9606,2020-03-15,Person
 France/HF1870/2020,88,Male,Hauts de France,9606,2020-03-15,Person
@@ -120,6 +176,9 @@ France/HF1988/2020,70,Female,Hauts de France,9606,2020-03-15,Person
 France/HF1989/2020,95,Male,Hauts de France,9606,2020-03-15,Person
 France/HF1993/2020,68,Male,Hauts de France,9606,2020-03-15,Person
 France/HF1995/2020,86,Female,Hauts de France,9606,2020-03-15,Person
+France/HF2039/2020,43,Female,Hauts de France,9606,2020-03-18,Person
+France/HF2151/2020,53,Female,Hauts de France,9606,2020-03-18,Person
+France/HF2174/2020,37,Female,Hauts de France,9606,2020-03-18,Person
 France/IDF0372-isl/2020,31,Female,Ile de France,9606,2020-02-18,Person
 France/IDF0372/2020,31,Female,Ile de France,9606,2020-01-29,Person
 France/IDF0373/2020,32,Male,Ile de France,9606,2020-01-29,Person
@@ -130,10 +189,16 @@ France/IDF0515/2020,47,Female,Hubei,9606,2020-02-08,Person
 France/IDF0571/2020,47,Female,Ile de France,9606,2020-02-19,Person
 France/IDF0626/2020,53,Male,Ile de France,9606,2020-02-08,Person
 France/IDF1980/2020,86,Male,Ile de France,9606,2020-03-15,Person
-France/N1620/2020,70,Male,Normandie,9606,2020-03-14,Person
+France/IDF2075/2020,40,Male,Ile de France,9606,2020-03-18,Person
+France/N1620/2020,,,Normandie,9606,2020-03-15,Person
+France/PL1643/2020,59,Female,Pays de la Loire,9606,2020-03-15,Person
 France/RA739/2020,56,Female,Auvergne Rhone Alpes,9606,2020-02-14,Person
 Fujian/13/2020,65,Male,Fujian,9606,2020-02-19,Person
 Fujian/8/2020,73,Female,Fujian,9606,2020-02-19,Person
+Georgia/Tb-468/2020,,Male,Tbilisi,9606,2020-03-18,Person
+Georgia/Tb-477/2020,,Male,Tbilisi,9606,2020-03-18,Person
+Georgia/Tb-54/2020,,Female,Tbilisi,9606,2020-03-18,Person
+Georgia/Tb-82/2020,,Male,Tbilisi,9606,2020-03-18,Person
 Germany/Baden-Wuerttemberg-1/2020,,,Lombardy,9606,2020-02-28,Person
 Germany/BavPat1/2020,,Male,Bavaria,9606,2020-01-31,Person
 Germany/BavPat2/2020,40,Female,Iran,9606,2020-03-13,Person
@@ -211,6 +276,14 @@ Guangdong/ZH-S33-P0058/2020,1,Male,Guangdong,9606,2020-03-09,Person
 Guangdong/ZQ-S2-P0061/2020,26,Female,Guangdong,9606,2020-03-09,Person
 Guangdong/ZS-S6-P0060/2020,25,Female,Guangdong,9606,2020-03-09,Person
 Guangzhou/20SF206/2020,73,Female,Guangdong,9606,2020-01-29,Person
+Guangzhou/GZMU0014/2020,53,Male,Guangdong,9606,2020-03-16,Person
+Guangzhou/GZMU0016/2020,72,Male,Guangdong,9606,2020-03-16,Person
+Guangzhou/GZMU0030/2020,60,Male,Guangdong,9606,2020-03-16,Person
+Guangzhou/GZMU0031/2020,60,Male,Guangdong,9606,2020-03-16,Person
+Guangzhou/GZMU0042/2020,72,Female,Guangdong,9606,2020-03-16,Person
+Guangzhou/GZMU0044/2020,72,Male,Guangdong,9606,2020-03-16,Person
+Guangzhou/GZMU0047/2020,79,Male,Guangdong,9606,2020-03-16,Person
+Guangzhou/GZMU0048/2020,79,Male,Guangdong,9606,2020-03-16,Person
 Hangzhou/HZ-1/2020,32,Male,Hubei,9606,2020-02-03,Person
 Hangzhou/HZCDC0001/2020,32,Male,Hubei,9606,2020-02-05,Person
 Hefei/2/2020,,,Anhui,9606,2020-02-24,Person
@@ -225,8 +298,8 @@ HongKong/case52_VM20002582/2020,67,Female,Hong Kong,9606,2020-03-13,Person
 HongKong/case78_VM20002849/2020,59,Female,Hong Kong,9606,2020-03-13,Person
 HongKong/case85_VM20002868/2020,60,Female,Hong Kong,9606,2020-03-13,Person
 HongKong/case90_VM20002907/2020,29,Female,Hong Kong,9606,2020-03-13,Person
-India/1-27/2020,20,Female,Kerala,9606,2020-03-06,Person
-India/1-31/2020,23,Male,Kerala,9606,2020-03-06,Person
+India/1-27/2020,20,Female,China,9606,2020-03-06,Person
+India/1-31/2020,23,Male,China,9606,2020-03-06,Person
 Ireland/COR-20134/2020,43,Male,Cork,9606,2020-03-12,Person
 Ireland/Dublin-19072/2020,49,Female,Dublin,9606,2020-03-13,Person
 Ireland/Limerick-19933/2020,11,Female,Limerick,9606,2020-03-13,Person
@@ -265,18 +338,83 @@ Netherlands/Dalen_1363624/2020,,,Drenthe,9606,2020-03-07,Person
 Netherlands/Delft_1363424/2020,,,South Holland,9606,2020-03-07,Person
 Netherlands/Diemen_1363454/2020,,,North Holland,9606,2020-03-07,Person
 Netherlands/Eindhoven_1363782/2020,,,North Brabant,9606,2020-03-07,Person
+Netherlands/Flevoland/1/2020,,,Flevoland,9606,2020-03-17,Person
+Netherlands/Gelderland/1/2020,,,Gelderland,9606,2020-03-17,Person
+Netherlands/Gelderland/2/2020,,,Gelderland,9606,2020-03-17,Person
+Netherlands/Gelderland/3/2020,,,Gelderland,9606,2020-03-17,Person
 Netherlands/Gelderland_1/2020,,,Gelderland,9606,2020-03-12,Person
 Netherlands/Haarlem_1363688/2020,,,North Holland,9606,2020-03-07,Person
 Netherlands/Hardinxveld_Giessendam_1364806/2020,,,South Holland,9606,2020-03-07,Person
 Netherlands/Helmond_1363548/2020,,,North Brabant,9606,2020-03-07,Person
+Netherlands/Limburg/7/2020,,,Limburg,9606,2020-03-17,Person
 Netherlands/Limburg_2/2020,,,Limburg,9606,2020-03-12,Person
 Netherlands/Limburg_3/2020,,,Limburg,9606,2020-03-12,Person
 Netherlands/Limburg_4/2020,,,Limburg,9606,2020-03-12,Person
 Netherlands/Limburg_5/2020,,,Limburg,9606,2020-03-12,Person
 Netherlands/Limburg_6/2020,,,Limburg,9606,2020-03-12,Person
 Netherlands/Loon_op_zand_1363512/2020,,,North Brabant,9606,2020-03-07,Person
+Netherlands/NA/1/2020,,,Netherlands,9606,2020-03-17,Person
+Netherlands/NA/10/2020,,,Netherlands,9606,2020-03-17,Person
+Netherlands/NA/11/2020,,,Netherlands,9606,2020-03-17,Person
+Netherlands/NA/12/2020,,,Netherlands,9606,2020-03-17,Person
+Netherlands/NA/13/2020,,,Netherlands,9606,2020-03-17,Person
+Netherlands/NA/14/2020,,,Netherlands,9606,2020-03-17,Person
+Netherlands/NA/15/2020,,,Netherlands,9606,2020-03-17,Person
+Netherlands/NA/16/2020,,,Netherlands,9606,2020-03-17,Person
+Netherlands/NA/17/2020,,,Netherlands,9606,2020-03-17,Person
+Netherlands/NA/18/2020,,,Netherlands,9606,2020-03-17,Person
+Netherlands/NA/19/2020,,,Netherlands,9606,2020-03-17,Person
+Netherlands/NA/2/2020,,,Netherlands,9606,2020-03-17,Person
+Netherlands/NA/20/2020,,,Netherlands,9606,2020-03-17,Person
+Netherlands/NA/21/2020,,,Netherlands,9606,2020-03-17,Person
+Netherlands/NA/22/2020,,,Netherlands,9606,2020-03-17,Person
+Netherlands/NA/23/2020,,,Netherlands,9606,2020-03-17,Person
+Netherlands/NA/24/2020,,,Netherlands,9606,2020-03-17,Person
+Netherlands/NA/25/2020,,,Netherlands,9606,2020-03-17,Person
+Netherlands/NA/26/2020,,,Netherlands,9606,2020-03-17,Person
+Netherlands/NA/27/2020,,,Netherlands,9606,2020-03-17,Person
+Netherlands/NA/28/2020,,,Netherlands,9606,2020-03-17,Person
+Netherlands/NA/29/2020,,,Netherlands,9606,2020-03-17,Person
+Netherlands/NA/30/2020,,,Netherlands,9606,2020-03-17,Person
+Netherlands/NA/31/2020,,,Netherlands,9606,2020-03-17,Person
+Netherlands/NA/32/2020,,,Netherlands,9606,2020-03-17,Person
+Netherlands/NA/33/2020,,,Netherlands,9606,2020-03-17,Person
+Netherlands/NA/34/2020,,,Netherlands,9606,2020-03-17,Person
+Netherlands/NA/35/2020,,,Netherlands,9606,2020-03-17,Person
+Netherlands/NA/4/2020,,,Netherlands,9606,2020-03-17,Person
+Netherlands/NA/5/2020,,,Netherlands,9606,2020-03-17,Person
+Netherlands/NA/6/2020,,,Netherlands,9606,2020-03-17,Person
+Netherlands/NA/7/2020,,,Netherlands,9606,2020-03-17,Person
+Netherlands/NA/8/2020,,,Netherlands,9606,2020-03-17,Person
+Netherlands/NA/9/2020,,,Netherlands,9606,2020-03-17,Person
 Netherlands/Naarden_1364774/2020,,,North Holland,9606,2020-03-07,Person
 Netherlands/Nieuwendijk_1363582/2020,,,North Brabant,9606,2020-03-07,Person
+Netherlands/NoordBrabant/41/2020,,,North Brabant,9606,2020-03-17,Person
+Netherlands/NoordBrabant/42/2020,,,North Brabant,9606,2020-03-17,Person
+Netherlands/NoordBrabant/44/2020,,,North Brabant,9606,2020-03-17,Person
+Netherlands/NoordBrabant/45/2020,,,North Brabant,9606,2020-03-17,Person
+Netherlands/NoordBrabant/46/2020,,,North Brabant,9606,2020-03-17,Person
+Netherlands/NoordBrabant/47/2020,,,North Brabant,9606,2020-03-17,Person
+Netherlands/NoordBrabant/48/2020,,,North Brabant,9606,2020-03-17,Person
+Netherlands/NoordBrabant/49/2020,,,North Brabant,9606,2020-03-17,Person
+Netherlands/NoordBrabant/51/2020,,,North Brabant,9606,2020-03-17,Person
+Netherlands/NoordBrabant/52/2020,,,North Brabant,9606,2020-03-17,Person
+Netherlands/NoordBrabant/53/2020,,,North Brabant,9606,2020-03-17,Person
+Netherlands/NoordBrabant/54/2020,,,North Brabant,9606,2020-03-17,Person
+Netherlands/NoordBrabant/55/2020,,,North Brabant,9606,2020-03-17,Person
+Netherlands/NoordBrabant/56/2020,,,North Brabant,9606,2020-03-17,Person
+Netherlands/NoordBrabant/57/2020,,,North Brabant,9606,2020-03-17,Person
+Netherlands/NoordBrabant/58/2020,,,North Brabant,9606,2020-03-17,Person
+Netherlands/NoordBrabant/59/2020,,,North Brabant,9606,2020-03-17,Person
+Netherlands/NoordBrabant/60/2020,,,North Brabant,9606,2020-03-17,Person
+Netherlands/NoordBrabant/61/2020,,,North Brabant,9606,2020-03-17,Person
+Netherlands/NoordBrabant/62/2020,,,North Brabant,9606,2020-03-17,Person
+Netherlands/NoordBrabant/63/2020,,,North Brabant,9606,2020-03-17,Person
+Netherlands/NoordBrabant/64/2020,,,North Brabant,9606,2020-03-17,Person
+Netherlands/NoordBrabant/65/2020,,,North Brabant,9606,2020-03-17,Person
+Netherlands/NoordBrabant/66/2020,,,North Brabant,9606,2020-03-17,Person
+Netherlands/NoordBrabant/67/2020,,,North Brabant,9606,2020-03-17,Person
+Netherlands/NoordBrabant/68/2020,,,North Brabant,9606,2020-03-17,Person
 Netherlands/NoordBrabant_1/2020,,,North Brabant,9606,2020-03-12,Person
 Netherlands/NoordBrabant_10/2020,,,North Brabant,9606,2020-03-12,Person
 Netherlands/NoordBrabant_11/2020,,,North Brabant,9606,2020-03-12,Person
@@ -313,6 +451,7 @@ Netherlands/NoordBrabant_39/2020,,,North Brabant,9606,2020-03-13,Person
 Netherlands/NoordBrabant_4/2020,,,North Brabant,9606,2020-03-12,Person
 Netherlands/NoordBrabant_5/2020,,,North Brabant,9606,2020-03-12,Person
 Netherlands/NoordBrabant_6/2020,,,North Brabant,9606,2020-03-12,Person
+Netherlands/NoordHolland/3/2020,,,North Holland,9606,2020-03-17,Person
 Netherlands/NoordHolland_1/2020,,,North Holland,9606,2020-03-12,Person
 Netherlands/NoordHolland_2/2020,,,North Holland,9606,2020-03-13,Person
 Netherlands/Nootdorp_1364222/2020,,,South Holland,9606,2020-03-07,Person
@@ -326,6 +465,9 @@ Netherlands/Rotterdam_1364740/2020,,,South Holland,9606,2020-03-07,Person
 Netherlands/Tilburg_/2020,,,North Brabant,9606,2020-03-07,Person
 Netherlands/Tilburg_1363354/2020,,,North Brabant,9606,2020-03-07,Person
 Netherlands/Tilburg_1364286/2020,,,North Brabant,9606,2020-03-07,Person
+Netherlands/Utrecht/17/2020,,,Utrecht,9606,2020-03-17,Person
+Netherlands/Utrecht/18/2020,,,Utrecht,9606,2020-03-17,Person
+Netherlands/Utrecht/19/2020,,,Utrecht,9606,2020-03-17,Person
 Netherlands/Utrecht_1/2020,,,Utrecht,9606,2020-03-12,Person
 Netherlands/Utrecht_10/2020,,,Utrecht,9606,2020-03-12,Person
 Netherlands/Utrecht_11/2020,,,Utrecht,9606,2020-03-12,Person
@@ -345,6 +487,13 @@ Netherlands/Utrecht_6/2020,,,Utrecht,9606,2020-03-12,Person
 Netherlands/Utrecht_7/2020,,,Utrecht,9606,2020-03-12,Person
 Netherlands/Utrecht_8/2020,,,Utrecht,9606,2020-03-12,Person
 Netherlands/Zeewolde_1365080/2020,,,Flevoland,9606,2020-03-07,Person
+Netherlands/ZuidHolland/25/2020,,,South Holland,9606,2020-03-17,Person
+Netherlands/ZuidHolland/26/2020,,,South Holland,9606,2020-03-17,Person
+Netherlands/ZuidHolland/27/2020,,,South Holland,9606,2020-03-17,Person
+Netherlands/ZuidHolland/28/2020,,,South Holland,9606,2020-03-17,Person
+Netherlands/ZuidHolland/29/2020,,,South Holland,9606,2020-03-17,Person
+Netherlands/ZuidHolland/30/2020,,,South Holland,9606,2020-03-17,Person
+Netherlands/ZuidHolland/31/2020,,,South Holland,9606,2020-03-17,Person
 Netherlands/ZuidHolland_1/2020,,,South Holland,9606,2020-03-12,Person
 Netherlands/ZuidHolland_10/2020,,,South Holland,9606,2020-03-12,Person
 Netherlands/ZuidHolland_11/2020,,,South Holland,9606,2020-03-12,Person
@@ -371,6 +520,8 @@ NewZealand/01/2020,,Female,Iran,9606,2020-03-05,Person
 Nigeria/Lagos01/2020,,Male,Italy,9606,2020-03-06,Person
 Nonthaburi/61/2020,61,Female,Hubei,9606,2020-01-17,Person
 Nonthaburi/74/2020,74,Female,Hubei,9606,2020-01-17,Person
+NorthernIreland/HSCNI01/2020,48,Female,Northern Ireland,9606,2020-03-16,Person
+Panama/328677/2020,40,Female,Comunitat Valenciana,9606,2020-03-16,Person
 Portugal/CV62/2020,60,Male,Portugal,9606,2020-03-09,Person
 Portugal/CV63/2020,33,Male,Portugal,9606,2020-03-09,Person
 Scotland/CVR01/2020,51,Male,Scotland,9606,2020-03-04,Person
@@ -378,7 +529,28 @@ Scotland/CVR02/2020,,,Scotland,9606,2020-03-10,Person
 Scotland/CVR03/2020,,,Scotland,9606,2020-03-10,Person
 Scotland/CVR04/2020,,,Scotland,9606,2020-03-10,Person
 Scotland/CVR05/2020,,,Scotland,9606,2020-03-10,Person
+Scotland/CVR06/2020,,,Scotland,9606,2020-03-18,Person
+Scotland/CVR07/2020,,,Scotland,9606,2020-03-18,Person
+Scotland/CVR10/2020,,,Scotland,9606,2020-03-18,Person
+Scotland/EDB003/2020,,,Scotland,9606,2020-03-18,Person
+Scotland/EDB004/2020,,,Scotland,9606,2020-03-18,Person
+Scotland/EDB005/2020,,,Scotland,9606,2020-03-18,Person
+Scotland/EDB006/2020,,,Scotland,9606,2020-03-18,Person
+Scotland/EDB007/2020,,,Scotland,9606,2020-03-18,Person
+Scotland/EDB008/2020,,,Scotland,9606,2020-03-18,Person
+Scotland/EDB009/2020,,,Scotland,9606,2020-03-18,Person
+Scotland/EDB011/2020,,,Scotland,9606,2020-03-18,Person
+Scotland/EDB012/2020,,,Scotland,9606,2020-03-18,Person
+Scotland/EDB013/2020,,,Scotland,9606,2020-03-18,Person
 Shandong/IVDC-SD-001/2020,37,Male,Shandong,9606,2020-02-09,Person
+Shandong/LY001/2020,62,Female,Shandong,9606,2020-03-16,Person
+Shandong/LY002/2020,65,Male,Shandong,9606,2020-03-16,Person
+Shandong/LY003/2020,37,Male,Shandong,9606,2020-03-16,Person
+Shandong/LY004/2020,35,Female,Shandong,9606,2020-03-16,Person
+Shandong/LY005/2020,53,Female,Shandong,9606,2020-03-16,Person
+Shandong/LY006/2020,28,Male,Shandong,9606,2020-03-16,Person
+Shandong/LY007/2020,35,Male,Shandong,9606,2020-03-16,Person
+Shandong/LY008/2020,0,Female,Shandong,9606,2020-03-16,Person
 Shanghai/IVDC-SH-001/2020,56,Female,Shanghai,9606,2020-02-09,Person
 Shanghai/SH01/2020,,,Shanghai,9606,2020-03-13,Person
 Shenzhen/HKU-SZ-002/2020,66,Male,Guangdong,9606,2020-01-24,Person
@@ -426,12 +598,18 @@ Switzerland/1000477796/2020,27,Male,Lombardy,9606,2020-03-03,Person
 Switzerland/1000477797/2020,26,Female,Lombardy,9606,2020-03-03,Person
 Switzerland/1000477806/2020,30,Male,Zurich,9606,2020-03-03,Person
 Switzerland/AG0361/2020,25,Male,Aargau,9606,2020-03-10,Person
+Switzerland/AG7120/2020,30,,Aargau,9606,2020-03-17,Person
+Switzerland/BE6651/2020,17,,Bern,9606,2020-03-17,Person
 Switzerland/BL0902/2020,23,Male,Basel,9606,2020-03-10,Person
+Switzerland/GE0199(2020,24,,Geneva,9606,2020-03-17,Person
+Switzerland/GE1422/2020,31,,Geneva,9606,2020-03-17,Person
 Switzerland/GE3121/2020,55,Male,Geneva,9606,2020-03-10,Person
 Switzerland/GE3895/2020,28,Male,Lombardy,9606,2020-03-10,Person
 Switzerland/GE5373/2020,27,Female,Geneva,9606,2020-03-10,Person
+Switzerland/GE8102/2020,30,,Geneva,9606,2020-03-17,Person
 Switzerland/GE9586/2020,30,Male,Lombardy,9606,2020-03-10,Person
 Switzerland/TI9486/2020,70,Male,Ticino,9606,2020-03-10,Person
+Switzerland/VD0503/2020,39,,Geneva,9606,2020-03-17,Person
 Switzerland/VD5615/2020,30,Male,Vaud,9606,2020-03-10,Person
 Sydney/2/2020,53,Male,Hubei,9606,2020-02-11,Person
 Sydney/3/2020,21,Female,New South Wales,9606,2020-02-11,Person
@@ -496,8 +674,15 @@ USA/MN2-MDH2/2020,,,Minnesota,9606,2020-03-13,Person
 USA/MN3-MDH3/2020,,,Grand Princess,9606,2020-03-13,Person
 USA/NY-NYUMC1/2020,43,Male,New York,9606,2020-03-15,Person
 USA/NY1-PV08001/2020,39,Female,Iran,9606,2020-03-12,Person
+USA/NY2-PV08100/2020,58,Male,New York,9606,2020-03-16,Person
 USA/TX1/2020,50,Female,Hubei,9606,2020-02-22,Person
 USA/UC-CDPH-UC11/2020,,,Grand Princess,9606,2020-03-10,Person
+USA/UPHL-01/2020,,,Utah,9606,2020-03-17,Person
+USA/UPHL-02/2020,,,Utah,9606,2020-03-17,Person
+USA/UPHL-03/2020,,,Utah,9606,2020-03-17,Person
+USA/UPHL-04/2020,,,Utah,9606,2020-03-17,Person
+USA/UPHL-05/2020,,,Utah,9606,2020-03-17,Person
+USA/UPHL-06/2020,,,Utah,9606,2020-03-17,Person
 USA/WA-S2/2020,,,Washington,9606,2020-03-05,Person
 USA/WA-S3/2020,,,Washington,9606,2020-03-07,Person
 USA/WA-UW15/2020,,,Washington,9606,2020-03-11,Person
@@ -521,6 +706,43 @@ USA/WA-UW32/2020,,,Washington,9606,2020-03-15,Person
 USA/WA-UW33/2020,,,Washington,9606,2020-03-15,Person
 USA/WA-UW34/2020,,,Washington,9606,2020-03-15,Person
 USA/WA-UW35/2020,,,Washington,9606,2020-03-15,Person
+USA/WA-UW40/2020,,,Washington,9606,2020-03-18,Person
+USA/WA-UW41/2020,,,Washington,9606,2020-03-18,Person
+USA/WA-UW42/2020,,,,9606,2020-03-18,Person
+USA/WA-UW43/2020,,,,9606,2020-03-18,Person
+USA/WA-UW44/2020,,,,9606,2020-03-18,Person
+USA/WA-UW45/2020,,,Washington,9606,2020-03-18,Person
+USA/WA-UW46/2020,,,Washington,9606,2020-03-18,Person
+USA/WA-UW47/2020,,,,9606,2020-03-18,Person
+USA/WA-UW48/2020,,,Washington,9606,2020-03-18,Person
+USA/WA-UW49/2020,,,Washington,9606,2020-03-18,Person
+USA/WA-UW50/2020,,,Washington,9606,2020-03-18,Person
+USA/WA-UW51/2020,,,Washington,9606,2020-03-18,Person
+USA/WA-UW52/2020,,,Washington,9606,2020-03-18,Person
+USA/WA-UW53/2020,,,Washington,9606,2020-03-18,Person
+USA/WA-UW54/2020,,,Washington,9606,2020-03-18,Person
+USA/WA-UW55/2020,,,Washington,9606,2020-03-18,Person
+USA/WA-UW56/2020,,,Washington,9606,2020-03-18,Person
+USA/WA-UW57/2020,,,Washington,9606,2020-03-18,Person
+USA/WA-UW58/2020,,,Washington,9606,2020-03-18,Person
+USA/WA-UW59/2020,,,Washington,9606,2020-03-18,Person
+USA/WA-UW60/2020,,,Washington,9606,2020-03-18,Person
+USA/WA-UW61/2020,,,Washington,9606,2020-03-18,Person
+USA/WA-UW62/2020,,,Washington,9606,2020-03-18,Person
+USA/WA-UW63/2020,,,Washington,9606,2020-03-18,Person
+USA/WA-UW64/2020,,,Washington,9606,2020-03-18,Person
+USA/WA-UW65/2020,,,Washington,9606,2020-03-18,Person
+USA/WA-UW66/2020,,,Washington,9606,2020-03-18,Person
+USA/WA-UW67/2020,,,Washington,9606,2020-03-18,Person
+USA/WA-UW68/2020,,,Washington,9606,2020-03-18,Person
+USA/WA-UW69/2020,,,Washington,9606,2020-03-18,Person
+USA/WA-UW70/2020,,,Washington,9606,2020-03-18,Person
+USA/WA-UW71/2020,,,Washington,9606,2020-03-18,Person
+USA/WA-UW72/2020,,,,9606,2020-03-18,Person
+USA/WA-UW73/2020,,,Washington,9606,2020-03-18,Person
+USA/WA-UW74/2020,,,Washington,9606,2020-03-18,Person
+USA/WA-UW75/2020,,,Washington,9606,2020-03-18,Person
+USA/WA-UW76/2020,,,Washington,9606,2020-03-18,Person
 USA/WA1-A12/2020,35,Male,Washington,9606,2020-02-04,Person
 USA/WA1-F6/2020,35,Male,Washington,9606,2020-02-04,Person
 USA/WA1/2020,,Male,Hubei,9606,2020-01-24,Person
@@ -543,8 +765,17 @@ USA/WI1/2020,52,Female,Hubei,9606,2020-02-10,Person
 Vietnam/VR03-38142/2020,25,Female,Hubei,9606,2020-02-10,Person
 Wales/PHW03/2020,23,Female,Wales,9606,2020-03-12,Person
 Wales/PHW05/2020,57,Male,Wales,9606,2020-03-12,Person
+Wales/PHW06/2020,54,Female,Wales,9606,2020-03-17,Person
 Wales/PHW1/2020,57,Male,Wales,9606,2020-03-07,Person
+Wales/PHW10/2020,31,Female,Wales,9606,2020-03-17,Person
+Wales/PHW12/2020,31,Female,Wales,9606,2020-03-17,Person
+Wales/PHW13/2020,34,Male,Wales,9606,2020-03-17,Person
 Wales/PHW2/2020,26,Male,Wales,9606,2020-03-07,Person
+Wales/PHW27/2020,49,Male,Wales,9606,2020-03-19,Person
+Wales/PHW28/2020,73,Male,Wales,9606,2020-03-19,Person
+Wales/PHW33/2020,50,Male,Wales,9606,2020-03-19,Person
+Wales/PHW37/2020,77,Female,Wales,9606,2020-03-19,Person
+Wales/PHW38/2020,36,Male,Wales,9606,2020-03-17,Person
 Wuhan-Hu-1/2019,,,Hubei,9606,2020-01-12,Person
 Wuhan/HBCDC-HB-01/2019,49,Female,Hubei,9606,2020-01-19,Person
 Wuhan/HBCDC-HB-02/2019,,Male,Hubei,9606,2020-02-28,Person
