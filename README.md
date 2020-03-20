@@ -2,7 +2,9 @@
 
 **WORK IN PROGRESS**
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pwrose/coronavirus-knowledge-graph/master?urlpath=lab)
+[![Binder](https://aws-uswest2-binder.pangeo.io/badge_logo.svg)](https://aws-uswest2-binder.pangeo.io/v2/gh/pwrose/coronavirus-knowledge-graph/master?urlpath=lab)
+
+<!--- [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pwrose/coronavirus-knowledge-graph/master?urlpath=lab) --->
 
 ![](docs/strains.png)
 
