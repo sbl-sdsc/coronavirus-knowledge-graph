@@ -1,4 +1,20 @@
 # Coronavirus-Knowledge-Graph
+
+**WORK IN PROGRESS**
+
+[![Binder](https://aws-uswest2-binder.pangeo.io/badge_logo.svg)](https://aws-uswest2-binder.pangeo.io/v2/gh/pwrose/coronavirus-knowledge-graph/master?urlpath=lab)
+
+<!--- [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pwrose/coronavirus-knowledge-graph/master?urlpath=lab) --->
+
+![](docs/strains.png)
+
+Fig. Strain subgraph
+
+
+
+
+# Documentation below is obsolete
+
 Prototype to create a [Neo4j](https://neo4j.com/) Knowledge Graph for Coronavirus outbreaks. 
 
 The goal of this Knowledge Graph project is to link heterogeneous data from publically available resources relevant to the COVID-19 outbreak. By linking disparate datasets, new insights may be gained.

@@ -13,6 +13,8 @@ rm neo4j-community-3.5.8-unix.tar.gz
 # This should allow the db to listen if it does...
 # Comment it out if you'd rather be a bit more secure
 echo "dbms.connectors.default_listen_address=0.0.0.0" >> ${CONDA_DIR}/neo4j-community-3.5.8/conf/neo4j.conf
+echo "dbms.memory.heap.initial_size=2g" >> ${CONDA_DIR}/neo4j-community-3.5.8/conf/neo4j.conf" >> ${CONDA_DIR}/neo4j-community-3.5.8/conf/neo4j.conf
+echo "dbms.memory.heap.max_size=2g" >> ${CONDA_DIR}/neo4j-community-3.5.8/conf/neo4j.conf" >> ${CONDA_DIR}/neo4j-community-3.5.8/conf/neo4j.conf
 
 # Enable LOAD CSV from any location
 mv ${CONDA_DIR}/neo4j-community-3.5.8/conf/neo4j.conf ${CONDA_DIR}/neo4j-community-3.5.8/conf/neo4j.conf-default
@@ -21,7 +23,7 @@ sed 's/dbms.directories.import=import/#dbms.directories.import=import/g' ${CONDA
 # Enable APOC procedures 
 echo 'dbms.security.procedures.unrestricted=apoc.*,org.neo4j.gis.spatial.*' >> neo4j.conf
 
-# neo4j has aa default password: neo4j
+# neo4j has a default password: neo4j
 # However, if you log in with that, the session will soon time out
 # and you will be required to update the original default password 
 ${CONDA_DIR}/neo4j-community-3.5.8/bin/neo4j-admin set-initial-password neo4jbinder
@@ -33,3 +35,5 @@ mv apoc-3.5.0.7-all.jar ${CONDA_DIR}/neo4j-community-3.5.8/plugins
 
 wget https://github.com/neo4j-contrib/spatial/releases/download/0.26.2-neo4j-3.5.2/neo4j-spatial-0.26.2-neo4j-3.5.2-server-plugin.jar
 mv neo4j-spatial-0.26.2-neo4j-3.5.2-server-plugin.jar ${CONDA_DIR}/neo4j-community-3.5.8/plugins
+
+export NEO4J_HOME=${CONDA_DIR}/neo4j-community-3.5.8
