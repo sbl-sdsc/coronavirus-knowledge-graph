@@ -1,5 +1,11 @@
 # Coronavirus-Knowledge-Graph
 
+This project is obsolete.
+
+**The current version of this project is here:** [COVID-19-Net Knowledge Graph](https://github.com/covid-19-net/covid-19-community)
+
+
+
 **WORK IN PROGRESS**
 
 [![Binder](https://aws-uswest2-binder.pangeo.io/badge_logo.svg)](https://aws-uswest2-binder.pangeo.io/v2/gh/pwrose/coronavirus-knowledge-graph/master?urlpath=lab)
